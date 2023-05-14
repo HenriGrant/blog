@@ -1,6 +1,6 @@
 baseURL = 'http://www.atticusabstract.net/'
 languageCode = 'en-us'
-title = 'Atticus Abstract'
+title = 'Henri Grant'
 theme= "gokarna"
 
 # Automatically generate robots.txt
@@ -8,10 +8,12 @@ enableRobotsTXT = true
 
 [params]
   # URL for the avatar on homepage
-  avatarURL = "/images/avatar.jpg"
+  avatarURL = "avatar.jpg"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = "size-m"
+
+  showPostsOnHomePage = "recent"
 
 [menu]
   [[menu.main]]
@@ -40,7 +42,7 @@ enableRobotsTXT = true
     
   [[menu.main]]
     identifier = "github"
-    url = "https://github.com"
+    url = "https://github.com/henrigrant"
     weight = 3
     
     # We use feather-icons: https://feathericons.com/
