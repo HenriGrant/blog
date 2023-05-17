@@ -14,7 +14,7 @@ enableRobotsTXT = true
   avatarSize = "size-m"
 
   showPostsOnHomePage = "recent"
-
+  footer = "Henri Grant"
 [markup]
   [markup.tableOfContents]
     startLevel = 1
