@@ -3,6 +3,7 @@ title: "Kotlin Notes"
 date: 2023-05-14T15:00:28-04:00
 type: "post"
 showTableOfContents: true
+tags: ["Kotlin", "notes"]
 ---
 
 # Kotlin
