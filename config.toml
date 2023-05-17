@@ -43,20 +43,25 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "pages"
     url = "/pages/"
-    name = "Books"
+    name = "Pages"
     weight = 2
 
+  [[menu.main]]
+    identifier = "resources"
+    url = "/pages/resources/"
+    name = "Resources"
+    weight = 3
 
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 4
     
   [[menu.main]]
     identifier = "github"
     url = "https://github.com/henrigrant"
-    weight = 3
+    weight = 5
     
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"

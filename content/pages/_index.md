@@ -1,9 +1,8 @@
 ---
-title: "Books"
+title: "Pages"
 type: page
 showTableOfContents: true
 ---
+ [Books](/pages/books/)
 
-# Books
-
-## *Brave New World*
+ [Recommended Resources](/pages/resources/)
