@@ -1,4 +1,4 @@
-baseURL = 'http://www.atticusabstract.net/'
+baseURL = 'https://www.atticusabstract.net/'
 languageCode = 'en-us'
 title = 'Henri Grant'
 theme= "gokarna"
