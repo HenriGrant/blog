@@ -6,3 +6,5 @@ showTableOfContents: true
  [Books](/pages/books/)
  
  [Recommended Resources](/pages/resources/)
+
+ [Articles](/pages/articles/)
